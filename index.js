@@ -7,6 +7,8 @@ function convertBinary(numberOne, numberTwo) { //Creates a function called "conv
     //This will return 0 if the number (in this case the value of sum) is devisible by the other value.
     //For example, 10%2 would return 0 as there is no remainder.
     //If it was 10%3, the highest devision is 9/3, which gives the remainder of 1, to get 10
+    //Math.floor returns the largest whole number less than or equal to the given value. In short, it rounds down to the closest whole number
+    //for exampe    10.99 = 10     4.534  =   4     45.936  =  45
   }
   return binary; //returns the result of binary
 }
