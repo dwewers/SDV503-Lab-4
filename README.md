@@ -35,8 +35,9 @@ apple(1, 2, 3, 4, 5, 6, 7, 8, 9)
 
 
 
-I didnt really have any trouble with this lesson as it was recapping on things that I did in the FreeCodeCamp. I think it was important that we learned this, as functions are used quite often when writing code. They can also be very useful, as we can declare them as a parameter, and use them again further on in the code.
+I didnt really have any trouble with this lesson as it was recapping on things that I did in the FreeCodeCamp. I think it was important that we learned this, as functions are used quite often when writing code. They can also be very useful, as we can declare them as a parameter, and use them again further on in the code.( freeCodeCamp. (n.d.). freeCodeCamp.org. Retrieved June 15, 2020, from https://www.freecodecamp.org/learn)
 
 length property of a function:
-
 The length property of a function indicates how many arguments the function expects.
+
+(fscholz. (2020, May 7). Function.length. Retrieved June 15, 2020, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/length#:%7E:text=Description,By%20contrast%2C%20arguments.)
